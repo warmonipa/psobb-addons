@@ -1,3 +1,7 @@
+# Credits
+The project inherits from HybridEidolon and Solybum, integrating the base and its extended plugins,
+finally delivering an AIO (All-in-One) solution to players.
+
 # BB UI addons plugin
 
 A plugin for Phantasy Star Online Blue Burst that enables graphical UI addons,
