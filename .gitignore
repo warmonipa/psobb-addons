@@ -1,0 +1,16 @@
+.vs
+Debug
+Release
+x64
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+*.aps
+
+/addons/*/options.lua
+/bbmod.zip
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/psobb-addons.iml
+/.idea/vcs.xml
