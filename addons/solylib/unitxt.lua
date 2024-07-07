@@ -195,10 +195,10 @@ local function AddServerMagColors(server)
     elseif server == 3 then -- Ephinea
 
         local ephineaNewMagColors = {
-            "Chartreuse", "Azure", "Royal Purple",
-            "Ruby", "Sapphire", "Emerald",
-            "Gold", "Silver", "Bronze",
-            "Plum", "Violet", "Goldenrod"
+            "Chartreuse*", "Azure*", "Royal Purple*",
+            "Ruby*", "Sapphire*", "Emerald*",
+            "Gold*", "Silver*", "Bronze*",
+            "Plum*", "Violet*", "Goldenrod*"
         }
 
         local ephineaNewMagColors2 = {
